@@ -44,7 +44,11 @@
   title = "css"
   width = "30px"
   style = "padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-          
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />  
+
+<br>
+<br>
+
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juwiederkehr&show_icons=true&theme=merko)
 
           
